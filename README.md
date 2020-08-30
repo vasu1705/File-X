@@ -14,3 +14,6 @@ Browsing of directory/files.</br>
 Size and modified date/created date are available</br>
 Identification of different file such as an image, document,music and video format file</br>
 
+
+<img src="Screenshot_1598816154.png" width="240" height="480">
+<img src="Screenshot_1598816164.png" width="240" height="480">
