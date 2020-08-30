@@ -1,16 +1,16 @@
-# filemanager
+# File Manager 
 
-A new Flutter project.
+A Flutter project.</br>
+This is the first version of the app.</br>
+It is based on the Material desingn Concept.</br>
 
-## Getting Started
+# Modules Used
+1.Provider : This library is used for the state management purpose of the app.</br>
+2.Permission_handler: This is used for handling storage access permission.</br>
+3.Percentage_indicator: This module is available at pub.dev</br>
 
-This project is a starting point for a Flutter application.
+# Things Working
+Browsing of directory/files.</br>
+Size and modified date/created date are available</br>
+Identification of different file such as an image, document,music and video format file</br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
