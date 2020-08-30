@@ -22,8 +22,8 @@ environment:
 
 dependencies:
   permission_handler:
-  path_provider:
   percent_indicator :
+  provider:
   flutter:
     sdk: flutter
 
@@ -42,7 +42,8 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   assets:
-    - Images/backgroundtile.jpg
+    - Images/
+    - Images/background1.jpg
     - Images/docs.jpg
     - Images/video.jpg
     - Images/photos.jpg
